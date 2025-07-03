@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ I'm a Frontend Developer<br>📚 Building scalable and efficient web applications with modern technologies.<br>🎯 Goal: Building Tech Solutions to solve real life problem.<br>      Currently working on advancing Power generation with the use of Renewable Energy.<br>🎲 Fun fact: I love Music and Art.</p>
+<p align="left">✨ I'm a Frontend Developer<br>📚 Building scalable and efficient web applications with modern technologies.<br>🎯 Goal: Building Tech Solutions to solve real life problem.<br>🎲 Fun fact: I love Music and Art.</p>
 
 ###
 
